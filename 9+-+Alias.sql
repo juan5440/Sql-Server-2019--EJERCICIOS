@@ -1,0 +1,1 @@
+SELECT Nombre [Nombre Del Alumno], Apellido SegundoNombre from Alumno
